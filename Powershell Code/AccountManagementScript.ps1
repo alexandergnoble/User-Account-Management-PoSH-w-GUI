@@ -6,7 +6,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:User_Account_Management"
         mc:Ignorable="d"
-        Title="User Account Management" Height="442" Width="442" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FF728BC5" Icon="\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Images\User Accounts.ico">
+        Title="User Account Management" Height="442" Width="442" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FF728BC5">
     <Grid RenderTransformOrigin="0.5,0.5">
         <Grid.RowDefinitions>
             <RowDefinition Height="113*"/>
